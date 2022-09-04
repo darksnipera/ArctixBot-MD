@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url'
 global.owner = [
   ['966568319347','ITACHI',true],
   ['967771279721','TANJERO',true],
-  ['201008673350', 'DIABLO', true],
+  ['201008673350', 'ZENO', true],
   //['447451240296']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
